@@ -1,0 +1,82 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	background: url("images/az-subtle.png");
+}
+
+.ventures h1 {
+	font-family: 'Lobster', cursive;
+	font-size: 46px;
+	color: #FD7400;
+}
+
+.ventures img {
+	width: 85%;
+}
+
+.new-site img {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.new-site h1 {
+	font-size: 68px;
+	font-weight: 800;
+	color: #004358;
+	padding-bottom: 10px;
+}
+
+.new-site .col-md-6 h2 {
+	font-size: 40px; 
+	font-weight: 100;
+	color: #74A0C1;
+}
+
+.new-site .col-md-6 h2 span {
+	color: #FD7400;
+	font-weight: 400;
+}
+
+.momento {
+	background: #5787A9;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.momento h2 {
+	font-weight: 100;
+	font-size: 40px;
+	color: #ffffff;
+}
+
+.momento img {
+	padding-top: 20px;
+}
+
+.momento h2 span {
+	font-weight: 800;
+}
+
+.rest-portion {
+	margin-bottom: 30px;
+}
+
+.rest-portion img {
+	padding-top: 60px;
+}
+
+.rest-portion h3 {
+	font-size: 24px;
+	font-weight: 800;
+}
+
+.rest-portion h4 {
+	color: #BEDB39;
+	font-size: 22px;
+	font-weight: 800;
+	padding-top: 30px;
+}
+
+.rest-portion h3.contacts {
+	color: #FD7400;
+
+}
